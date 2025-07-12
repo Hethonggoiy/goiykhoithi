@@ -4,7 +4,7 @@
 **Dự án  hỗ trợ học sinh lớp 12 xác định khối thi đại học phù hợp nhất**, dựa trên học lực, sở thích và kết quả trắc nghiệm. Hệ thống sử dụng mô hình lai giữa MLP và XGBoost, triển khai trực quan trên giao diện web bằng Streamlit.
 
 > 📍 Repo chính thức: https://github.com/Hethonggoiy/goiykhoithi  
-> 🧠 Tác giả mô hình MLP: Bạn Truong Minh Diep– Sinh viên LHU 2025
+> 🧠 Tác giả mô hình MLP-XGBoost: Bạn Truong Minh Diep– Sinh viên LHU 2025
 
 ---
 
